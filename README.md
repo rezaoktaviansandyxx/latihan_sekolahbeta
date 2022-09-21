@@ -1,5 +1,4 @@
-# Tugas Latihan 5
-
+# Latihan_SekolahBeta
 A new Flutter project.
 
 ## Getting Started
