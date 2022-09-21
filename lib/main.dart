@@ -90,13 +90,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ],
             ),
-            SizedBox(
-              height: MediaQuery.of(context).size.height / 1.8,
-            ),
-            SizedBox(height: 17,),
-            Align(
-              alignment: Alignment.bottomCenter,
-              child: Column(
+            const Spacer(),
+            Column(
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: [
                   Container(
@@ -114,7 +109,6 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 ],
               ),
-            ),
           ],
         ),
       ),
