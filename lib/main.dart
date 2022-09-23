@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:latihan_sekolahbeta/Latihan6/latihan_asset.dart';
 
 void main() {
   runApp(const MyApp());
